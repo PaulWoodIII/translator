@@ -1,0 +1,23 @@
+{
+  "name": "translator",
+  "version": "1.0.0",
+  "description": "api to get common translations of text in mobile apps and social websites",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/PaulWoodIII/translator.git"
+  },
+  "keywords": [
+    "localization",
+    "translation"
+  ],
+  "author": "Paul Wood III",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulWoodIII/translator/issues"
+  },
+  "homepage": "https://github.com/PaulWoodIII/translator#readme"
+}
