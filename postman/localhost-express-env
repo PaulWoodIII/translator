@@ -1,0 +1,38 @@
+{
+	"id": "d4f045c3-865f-ca03-c441-5181816c3ad4",
+	"name": "LocalHost Express",
+	"values": [
+		{
+			"key": "Host",
+			"value": "localhost",
+			"type": "text",
+			"name": "Host",
+			"enabled": true
+		},
+		{
+			"key": "Protocol",
+			"value": "http",
+			"type": "text",
+			"name": "Protocol",
+			"enabled": true
+		},
+		{
+			"key": "Port",
+			"value": "3000",
+			"type": "text",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwiaWF0IjoxNDUzOTkwMzQ0fQ.Q4xMs_qdDttT8sGMfVRqPHkjmFb1KnUZ16j2KV0bsmw",
+			"type": "text",
+			"name": "adminToken",
+			"enabled": true
+		}
+	],
+	"team": null,
+	"timestamp": 1479253884094,
+	"synced": false,
+	"syncedFilename": "",
+	"isDeleted": false
+}

@@ -1,0 +1,1 @@
+# Simple API to translate / localize common strings
